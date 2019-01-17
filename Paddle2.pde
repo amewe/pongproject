@@ -1,5 +1,5 @@
 void drawPaddle2() {
-fill(255);
+fill(blue);
    rect(paddleX2,paddleY2,paddleW2,paddleH2);
 
   

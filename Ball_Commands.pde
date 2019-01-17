@@ -29,3 +29,11 @@ void ballBounce(){
    }
   
 }
+
+void ballColor(){
+  
+ if( x < 0 + w/2){
+  fill(blue);
+}
+
+}

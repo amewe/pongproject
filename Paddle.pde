@@ -1,7 +1,9 @@
 void drawPaddle(){
-  fill(255);
+  fill(#FF1717);
   rect(paddleX,paddleY,paddleW,paddleH);
 }
+
+
 
 void movePaddle() {
   if(up) {
